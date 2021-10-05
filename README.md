@@ -4,6 +4,6 @@ A symmetric cryptography tool used to encrypt as well as decrypt text, images, f
 Fistly install pycryptodome package-
        pip install pycryptodome
        
-save images and test in same folder in which source code is saved.
+save images and text in the folder in which source code is saved.
 
 compile and run the code in editor 
